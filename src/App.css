@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+.active{
+  color: blue;
+}
+.search{
+  margin-left: 25px;
+  width: 25%;
+}
+
+p{
+  font-size: 15px;
+}
+p.loaimay{
+  border-right: 1px solid black;
+}
+.mb-3{
+  width: 1050px;
+}
+.ul{
+  clear: left;
+}
+
+
+.App-link {
+  color: #09d3ac;
+}
+.btn-group{
+  margin-right: 5px;
+  width: 130px;
+  height: 50px;
+}
+.khung{
+  border: 1px solid gray;
+  margin-top: 10px;
+  height: auto;
+}
+.xemchitiet{
+  margin-left: 20px;
+}
+
+.img-hover-zoom img {
+  transform-origin: 65% 75%;
+  transition: transform 1s, filter .5s ease-out;
+}
+
+/* The Transformation */
+.img-hover-zoom:hover img {
+  transform: scale(1.5);
+}
+.img-hover-zoom {
+  position: relative;
+}
+.style{
+  position: absolute;
+  left: 255px;
+  bottom: 160px;
+}
+.style img{
+  width: 60px;
+  height: 60px;
+  display: block;
+}
+.detail{
+  margin-left: 0px;
+}
+
+
+.T2{
+width: 200px;
+
+}
+
+.T4{
+  width: 500px;
+
+}
+.menu .navbar a:hover{
+  line-height: 100%;
+}
+.menu .navbar a:active{
+  line-height: 100%;
+}
+.doc a{
+  text-decoration: none;
+}
+
+.add{
+  margin-top: 100px;
+}

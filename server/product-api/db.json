@@ -1,0 +1,126 @@
+{
+  "category": [
+    {
+      "category_name": "Pháp luật",
+      "id": 2
+    },
+    {
+      "category_name": "Thời sự",
+      "id": 3
+    },
+    {
+      "category_name": "Thể thao",
+      "id": 4
+    },
+    {
+      "category_name": "Công nghệ",
+      "id": 5
+    },
+    {
+      "category_name": "Giải trí",
+      "id": 6
+    },
+    {
+      "category_name": "Thế giới",
+      "id": 7
+    }
+  ],
+  "post": [
+    {
+      "category_id": "3",
+      "name": "Phó thủ tướng cảnh báo nguy cơ nếu không gỡ được ‘thẻ vàng’ của EC",
+      "image": "/images/dung_zing.jpg",
+      "summary": "Phó thủ tướng Trịnh Đình Dũng cho biết tuần sau, đoàn công tác của EC sẽ trở lại Việt Nam để kiểm tra, xem xét có gỡ “thẻ vàng” cho Việt Nam hoặc nâng mức cảnh báo “thẻ đỏ\".",
+      "content": "Theo Phó thủ tướng Trịnh Đình Dũng, sau khi Ủy ban Châu Âu EC cảnh báo “thẻ vàng” với Việt Nam, Thủ tướng đã có nhiều chỉ đạo với các bộ, ngành, và 28 địa phương ven biển để triển khai các giải pháp nhằm chấm dứt tình trạng vi phạm của tàu cá và ngư dân Việt Nam.\nTuy nhiên tình trạng đánh bắt cá trái phép vẫn chưa chấm dứt. Hiện tại, còn 7 địa phương có tàu cá của ngư dân vi phạm, bị nước ngoài bắt giữ, xử lý.\n\n“Tuần sau, đoàn công tác của Uỷ ban Châu Âu EC sẽ trở lại Việt Nam để kiểm tra, xem xét có gỡ “thẻ vàng” cho Việt Nam hoặc nâng mức cảnh báo “thẻ đỏ”. Nếu không được gỡ thẻ vàng, thậm chí bị nâng mức cảnh báo “thẻ đỏ” sẽ ảnh hưởng lớn đến thị trường xuất khẩu của thuỷ sản Việt Nam và ảnh hưởng trực tiếp đến phát triển của ngành thủy sản và nền kinh tế của Việt Nam và đời sống người dân”, Phó thủ tướng cảnh báo.\n\nDo đó, ông đề nghị các đại biểu Quốc hội tại các địa phương sẽ hỗ trợ giúp đỡ trong công tác tuyên truyền, vận động, giám sát ngư dân, cùng với lãnh đạo các địa phương triển khai tốt các giải pháp nhằm thực hiện có hiệu quả các khuyến nghị của EC, sớm gỡ thẻ vàng cho thuỷ sản Việt Nam, để từ đó góp phần nâng cao uy tín, thương hiệu cho thuỷ sản Việt Nam.\n\n“Đây cũng là trách nhiệm của Chính phủ, Thủ tướng, Bộ trưởng Bộ Nông nghiệp và cá nhân tôi trong cương vị Trưởng Ban Chỉ đạo chống khai thác IUU”, ông Dũng nói.",
+      "id": 1
+    },
+    {
+      "category_id": "2",
+      "name": "24 người nước ngoài dương tính ma túy trong quán karaoke",
+      "image": "/images/Tuy_2.jpg",
+      "summary": "Trinh sát đột kích quán karaoke Thuỷ Tinh Tím KTV (quận Ngũ Hành Sơn, Đà Nẵng) phát hiện 37 nam nữ dương tính với ma tuý, trong đó hơn một nửa là người nước ngoài.",
+      "content": "Ngày 6/11, Công an TP Đà Nẵng đang lấy lời khai của những người liên quan để làm rõ hành vi tổ chức và sử dụng trái phép ma túy.\nRạng sáng hôm qua, hàng chục cán bộ, chiến sĩ Công an TP Đà Nẵng đột kích quán karaoke Thuỷ Tinh Tím KTV, phát hiện 47 khách hát hò, nhảy múa.\nTrên bàn tiệc có nhiều chất bột màu trắng và các dụng cụ dùng ma túy. Nhóm khách khai đây là ma túy đá họ mua bên ngoài rồi mang đến quán sử dụng.\nKiểm tra nhanh, lực lượng chức năng phát hiện 37 người dương tính với ma tuý. Trong số này có 18 người Trung Quốc, 6 người Hàn Quốc, 1 người Myanmar, còn lại là các cô gái Việt Nam.\n\nNhà chức trách địa phương cho biết quán karaoke Thuỷ Tinh Tím KTV do bà Lợi Thục Phấn (39 tuổi, trú TP.HCM) làm chủ. Cơ quan chức năng địa phương chưa cấp phép nhưng chủ cơ sở vẫn tổ chức hoạt động kinh doanh karaoke và hầu hết khách đến đây là người nước ngoài.",
+      "id": 2
+    },
+    {
+      "category_id": "4",
+      "name": "Lý do Văn Quyết không phải Cầu thủ hay nhất V.League 2019",
+      "image": "/images/50_zing.jpg",
+      "summary": "BÓNG ĐÁ VIỆT NAM  Lý do Văn Quyết không phải Cầu thủ hay nhất V.League 2019 Lê Ngọc13:33 06/11/2019  Trưởng ban điều hành các giải bóng đá chuyên nghiệp quốc gia Nguyễn Trọng Hoài cho rằng Văn Quyết không đủ điều kiện để đạt danh hiệu Cầu thủ hay nhất giải 2019.",
+      "content": "\"Với tư cách Trưởng ban điều hành, tôi xin khẳng định với mọi người là tất cả những danh hiệu, giải thưởng trước khi quyết định trao cho cá nhân, tổ chức nào đều phải dựa trên những quy định rõ ràng. Cụ thể ở đây là chúng tôi phải thông qua bầu chọn của các câu lạc bộ\", ông Nguyễn Trọng Hoài chia sẻ sau buổi lễ Tổng kết mùa giải 2019 diễn ra tại Hà Nội sáng 6/11.\n\"Tại sao Văn Quyết chơi hay thế mà không đạt danh hiệu Cầu thủ hay nhất giải? Có hai vấn đề. Một là Quyết chấn thương nên chỉ chơi được 15 trận đấu. Thứ hai, trong quá trình thi đấu, Quyết dính một thẻ đỏ trực tiếp và nghỉ 2 trận. Ngay sau đó, anh ấy tiếp tục phải nhận một án phạt nguội, cấm thi đấu 2 trận nữa. Như vậy, anh ấy đã nghỉ 4 trận và theo điều lệ cũng như các bên liên quan, Quyết không đạt tiêu chí bình chọn Cầu thủ hay nhất giải\", ông Hoài nói.\n\nĐồng quan điểm với ông Hoài, Chủ tịch VPF ông Trần Anh Tú cũng rất tiếc nuối với trường hợp của Văn Quyết, vì anh là cá nhân có đóng góp rất đáng kể vào hành trình giành chức vô địch của CLB Hà Nội.\n\nVăn Quyết ghi 9 bàn sau 15 trận ra sân ở V.League 2019. Ở đấu trường châu lục mùa này, Quyết ghi 2 bàn ở vòng sơ loại AFC Champions League, 7 bàn ở mặt trận AFC Cup.",
+      "id": 3
+    },
+    {
+      "category_id": "7",
+      "name": "TT Trump áp lực sau chiến thắng lịch sử của phe Dân chủ tại hai bang",
+      "image": "/images/bau_cu_kentucky_ap.jpg",
+      "summary": "Đảng Dân chủ đã chiến thắng đảng Cộng hòa trong cuộc đua bầu hội đồng lập pháp bang Virginia và thống đốc bang Kentucky, gây áp lực đối với Tổng thống Trump.",
+      "content": "THẾ GIỚI\n\nTT Trump áp lực sau chiến thắng lịch sử của phe Dân chủ tại hai bang\nHương Ly13:47 06/11/2019\n\nĐảng Dân chủ đã chiến thắng đảng Cộng hòa trong cuộc đua bầu hội đồng lập pháp bang Virginia và thống đốc bang Kentucky, gây áp lực đối với Tổng thống Trump.\nĐến tối ngày 5/11, cuộc bỏ phiếu đã kết thúc tại các bang Kentucky, Mississippi và Virginia. Andy Beshear, Tổng chưởng lý bang Kentucky, chiến thắng đối thủ đảng Cộng hòa Matt Bevin với kết quả sát nút là 709.697 phiếu so với 703.899 phiếu, theo CNN.\n\nTổng thống Donald Trump trước đó ủng hộ ông Bevin và tổ chức sự kiện vận động cử tri bỏ phiếu cho ứng viên đảng Cộng hòa này tại Kentucky vào tối ngày 4/11.\n\nÔng Bevin thất bại đồng nghĩa với việc đảng Cộng hòa mất đi quyền kiểm soát cơ quan lập pháp bang Kentucky, vốn là bang truyền thống của đảng này, và văn phòng thống đốc.\nTại bang Virginia, lần đầu tiên sau hơn 20 năm, phe Dân chủ đã giành được quyền kiểm soát toàn bộ hội đồng lập pháp từ phe Cộng hòa. Với chiến thắng này, đảng Dân chủ sẽ nắm trong tay quyền phân chia lại khu vực bầu cử, tác động không nhỏ đến kết quả cuộc bầu cử năm 2020.\n\nThống đốc Dân chủ đương nhiệm của Virginia, ông Ralph Northam, vẫn duy trì được vị trí này sau cuộc bỏ phiếu hôm 5/11.\n\nTrước đó, đảng Dân chủ đã đầu tư số tiền kỷ lục vào cuộc đua bầu lại 140 ghế của hội đồng lập pháp bang Virginia, bang tranh chấp quan trọng trong bầu cử tổng thống. Kết quả tại bang này từ lâu được coi là hồi chuông báo hiệu chiến thắng cho cuộc bầu cử toàn quốc.\n\nChiến thắng lịch sử của đảng Dân chủ tại bang trọng yếu cũng cho thấy phe này đang dốc sức cho cuộc bầu cử 2020 ngay từ cấp tiểu bang, gây áp lực đối với Tổng thống Trump. Đây là bang duy nhất thuộc miền Nam nước Mỹ mà ông Trump để thua trong cuộc bầu cử tổng thống năm 2016, theo New York Times.\n\nCuộc bỏ phiếu tại các bang năm 2019 được cho là phép thử đối với uy tín của ông Trump và quan điểm của người Mỹ về cuộc điều tra luận tội tổng thống.",
+      "id": 4
+    },
+    {
+      "category_id": "5",
+      "name": "Lần đầu iPhone cháy hàng tại Việt Nam sau 5 năm",
+      "image": "/images/1_1.jpg",
+      "summary": "Máy về nhỏ giọt khiến nhiều đại lý báo hết hàng cho sản phẩm iPhone 11, 11 Pro Max. Dự kiến sang tuần lô hàng mới sẽ về.",
+      "content": "Chưa đầy một tuần sau khi bán ra bộ ba iPhone 11 hàng chính hãng, nhiều hệ thống bán lẻ lớn tại Việt Nam bất ngờ thông báo hết hàng. Theo chia sẻ từ đại diện của các hệ thống, nguyên nhân chính của tình trạng này do Apple chưa trả đủ lượng hàng đã đặt cho các đại lý.\n\n\"Lượng hàng Apple phân bổ cho thị trường Việt Nam hiện không đủ để các hệ thống giao cho khách hàng\", ông Đặng Thanh Phong, đại diện truyền thông hệ thống bán lẻ TGDĐ chia sẻ. \niPhone 11 Pro Max phiên bản 64 GB là model bán chạy nhất tại Việt Nam, đặc biệt là màu Midnight Green. Hai phiên bản màu xanh và tím của mẫu iPhone 11 cũng đang cháy hàng tại nhiều hệ thống. \n\nTình trạng này chưa từng xảy ra trong khoảng 5 năm gần đây. Lần gần nhất một mẫu iPhone chính hãng cháy hàng giai đoạn mở bán là iPhone 6/6 Plus (2014). Có thể thấy, sự quan tâm của người dùng Việt với thế hệ iPhone 11 là khá lớn. Dự kiến, hàng sẽ tiếp tục được giao đến cho người dùng trong tuần tới.\n\nTrao đổi với Zing.vn, ông Nguyễn Huy Tân, đại diện truyền thông một hệ thống bán lẻ khác, cho biết nhiều khả năng phải đến ngày 20/11, hãng mới có thể trả hết số đơn hàng trong đợt đầu tiên cho thị trường Việt Nam.\n\n\"Apple coi Việt Nam là thị trường hạng ba, nên có một số bất lợi như bán máy chậm hơn, hàng hóa không đa dạng bằng. Nói chung thị trường Việt không được ưu tiên. Một số thị trường khác, như Malaysia mấy năm nay đã được 'lên hạng', nên bán iPhone sớm hơn chúng ta cả tháng\", chủ một nhà bán lẻ nói với Zing.vn.\n\nVị này cho biết thêm nhiều khách hàng đã đặt trước vẫn chưa thể nhận được máy. \"Điều này ảnh hưởng khá nhiều đến uy tín của các đại lý. Chúng tôi đang yêu cầu Apple bổ sung gấp số lượng hàng đã đặt\".",
+      "id": 5
+    },
+    {
+      "category_id": "6",
+      "name": "Tường San múa 'Để Mị nói cho mà nghe' ở Hoa hậu Quốc tế 2019",
+      "image": "/images/73541676_152101919482122_2479423768884150272_o.jpg",
+      "summary": "Á hậu Tường San được bạn bè quốc tế khen ngợi với phần thi múa \"Để Mị nói cho mà nghe\" tại Hoa hậu Quốc tế 2019.",
+      "content": "Hôm 5/11, các thí sinh Hoa hậu Quốc tế thể hiện tài năng trong buổi tiệc ở thành phố Saitama, Nhật Bản. Đại diện Việt Nam là Tường San mặc trang phục dân tộc và múa trên nền nhạc Để Mị nói cho mà nghe của Hoàng Thùy Linh. \n\nPhần biểu diễn của 10X được khen hút mắt, thần thái cô cũng tươi tắn và gương mặt đẹp mọi góc nhìn. Dưới bài đăng của Missosology, người hâm mộ quốc tế khen Tường San giữ vững phong độ từ đầu cuộc thi đến hiện tại.\nTheo chia sẻ của Tường San, cô dành 2 tuần tập luyện cho bài múa này. Cô nói: \"San rất hồi hộp và cũng mong ngóng đến phần trình diễn của mình. San đã chuẩn bị rất kĩ càng cho tiết mục, hi vọng dù đây không phải phần thi tính điểm nhưng sự tự tin và cố gắng của San có thể gây được ấn tượng trước giám khảo\".\n\nTrước đó, Tường San và các thí sinh trải nghiệm nét văn hóa Nhật như pha trà, gấp khăn tay, thưởng thức món ăn... Bên cạnh đó, dàn người đẹp Hoa hậu Quốc tế cũng có dịp tham quan Bảo tàng Nghệ thuật Bonsai Omiya, chứng kiến những nghệ nhân trồng Bonsai.\n\nĐêm chung kết Hoa hậu Quốc tế 2019 sẽ diễn ra vào ngày 12/11. Mới đây, chuyên trang sắc đẹp Missosology đã công bố bảng dự đoán những gương mặt có khả năng tiến sâu. Trong đó, Tường San có mặt ở top 6, đại diện chủ nhà Nhật Bản đăng quang hoa hậu.\n\nTrước đó, 10X được chuyên trang này đoán có khả năng giành vị trí á hậu 1, xếp sau đại diện Mexico.",
+      "id": 6
+    },
+    {
+      "category_id": "6",
+      "name": "Hà Kiều Anh ở biệt thự 100 tỷ đồng, đi xe hơi sang trọng",
+      "image": "/images/HaKieuAnh_zing75.jpg",
+      "summary": "Hoa hậu Việt Nam 1992 hiện có cuộc sống hạnh phúc, êm đềm bên ông xã doanh nhân và 3 con. Chị tạm dừng đóng phim, tập trung kinh doanh và làm từ thiện.",
+      "content": "Sau 27 năm đăng quang hoa hậu, Hà Kiều Anh vẫn giữ được nhan sắc tươi trẻ, vóc dáng cân đối. Theo chị, phụ nữ muốn giữ gìn nhan sắc phải làm việc và năng động. \"Khi tham dự sự kiện, ngồi ghế giám khảo các cuộc thi, áp lực làm đẹp càng lớn hơn. Vì thế tôi càng quyết tâm tập luyện, ăn uống khiêng khem để có vóc dáng đẹp\", Hà Kiều Anh cho hay.\nHoa hậu chia sẻ cuộc sống hiện tại của chị xoay quanh việc chăm lo cho 3 con, phụ giúp ông xã kinh doanh khách sạn. Ngoài ra, chị còn kinh doanh bất động sản, thẩm mỹ. Người đẹp tự nhận bản thân không có duyên với nghệ thuật nên không \"cố đấm ăn xôi\". \nLấy chồng đại gia, bản thân là doanh nhân thành đạt nên Hà Kiều Anh có cuộc sống sang chảnh, khiến người khác ngưỡng mộ. Gia đình chị sống trong căn biệt thự rộng hơn 450 m2, thiết kế độc đáo ở quận 2, TP.HCM. Theo giá thị trường, biệt thự của hoa hậu có trị giá hơn 100 tỷ đồng. Ngoài ra, hoa hậu di chuyển bằng xe Bentley sang trọng.\nTrái với định kiến người đẹp phải sống phụ thuộc vào đại gia, Hà Kiều Anh khẳng định tự gầy dựng tài sản, sự nghiệp của riêng mình. Chị cho biết luôn xác định tự lập, tự chủ trong vấn đề kinh tế. \nTheo hoa hậu, phụ nữ nên sống tự lập, biết cách tự kiếm tiền, tạo ra chỗ đứng của mình trong xã hội. Chị cho rằng không phải cứ đẹp là được đại gia chọn. Chị nhấn mạnh: \"Quản lý một khối tài sản của đại gia nếu không có trình độ, suốt ngày xài tiền thì cũng khó đấy. Vì vậy, đại gia cũng rất tỉnh táo chọn bạn đời\".\nHà Kiều Anh tự nhận bản thân có quá nhiều năng lượng vì vậy chị có thể làm nhiều việc cùng lúc. Đối với chị, một ngày 24 tiếng không đủ với mình.\nDù bận rộn với công việc kinh doanh, chăm sóc 3 con, Hà Kiều Anh cho biết vẫn luôn dành thời gian gặp gỡ bạn bè, người thân. Hoa hậu nổi tiếng nấu ăn ngon vì thế chị thường mời bạn bè đến nhà ăn uống vào mỗi dịp cuối tuần.",
+      "id": 7
+    },
+    {
+      "category_id": "4",
+      "name": "HLV Dương Hồng Sơn ăn mừng danh hiệu quốc tế đầu tiên",
+      "image": "/images/duong_hong_son_9_zing.jpg",
+      "summary": "Nhà vô địch AFF Cup 2008 vỡ òa trong chiến thắng của U21 tuyển chọn Việt Nam trước đội sinh viên Nhật Bản trong trận chung kết tối 5/11.",
+      "content": "Sử dụng chiến thuật và con người hợp lý trong trận tái đấu với đội sinh viên vô địch thế giới 2019, HLV Dương Hồng Sơn cần thêm chút may mắn nữa mới có thể giành được danh hiệu quốc tế đầu tiên trong sự nghiệp.\nTiếng còi kết thúc trận đấu vang lên cũng là lúc Quả bóng vàng 2008 vỡ òa với cảm xúc. Vô địch giải U21 quốc tế lần thứ 13 là danh hiệu thứ 2 mà HLV 37 tuổi giành được trong vòng một tháng.\nBàn thắng mở tỷ số của tiền đạo Trần Danh Trung ở hiệp một và cú sút phạt đền của Nguyễn Tuấn Hải trong hiệp 2 giúp đội chủ nhà đánh bại đội sinh viên Nhật Bản với tỷ số 2-0. Đội khách hai lần sút trúng cột và không thực hiện thành công quả phạt đền.\nLứa cầu thủ trẻ trong tay HLV Dương Hồng Sơn là thành phần nòng cốt sẽ tham dự SEA Games 31 diễn ra ngay tại Việt Nam năm 2021. Đây là bước đệm quan trọng của Danh Trung và đồng đội trong 2 năm tiếp theo của sự nghiệp.\nChức vô địch U21 quốc gia 2019 là danh hiệu đầu tiên của Hồng Sơn, thì U21 quốc tế là thành tích quốc tế đầu trong sự nghiệp cầm quân của cựu thủ môn CLB Hà Nội. Anh còn tiếp tục đi học để hoàn tất khóa lấy bằng huấn luyện viên loại A.\nHòa chung trong ngày đăng quang, thủ thành gốc Nghệ An còn có sự chia sẻ của gia đình. Vợ và hai con có mặt ở sân Hòa Xuân tối 5/11 để chia vui với anh.\nSẽ có vài học trò của Dương Hồng Sơn được các trợ lý HLV Park Hang-seo \"chấm\" cho SEA Games 30. Tuy nhiên, quyết định có bổ sung lực lượng hay không vẫn thuộc về chiến lược gia người Hàn Quốc.",
+      "id": 8
+    },
+    {
+      "category_id": "5",
+      "name": "Siêu phẩm một thời iPhone 5S giá 1-2 triệu đồng tại Việt Nam",
+      "image": "/images/wGKbjW8Nti5J3BHV6xPfYC.jpg",
+      "summary": "iPhone 5S đã qua sử dụng được chào bán với giá từ 1 triệu đồng. Với giá này, người dùng chỉ mua được điện thoại cục gạch hoặc một số mẫu Android không tên tuổi trên thị trường.",
+      "content": "Năm 2013, Apple giới thiệu mẫu iPhone 5S. Model này vẫn dùng chung thiết kế với iPhone 5 nhưng Apple đã bổ sung màu vàng và được nhiều người ưa chuộng.\n\n5S là chiếc iPhone đầu tiên được sử dụng cảm biến vân tay Touch ID ở nút Home, cho phép mở khóa thiết bị và mua hàng trên App Store. \n\nTrong khoảng thời gian này, iPhone 5S được bán chính hãng tại Việt Nam với giá từ 16,5 triệu đồng cho bản 16 GB, bản 32 GB có giá 19,5 triệu đồng và 21,9 triệu đồng cho bản 64 GB.\nHiện tại chiếc iPhone 6 năm tuổi đã ngừng bán chính hãng tại Việt Nam. Tuy nhiên, người dùng có thể mua iPhone 5S đã qua sử dụng trên một số trang rao vặt với giá từ 1 triệu đồng cho bản 16 GB. Sản phẩm bán ra chủ yếu là máy trần, không kèm phụ kiện.\n\nTrong khi đó, một cửa hàng nhỏ trên đường Trần Quang Khải (quận 1, TP.HCM) đang chào bán iPhone 5S xách tay (mới) với hộp, đầy đủ phụ kiện, giá 2,6 triệu đồng cho bản 16 GB.\n\nTheo chủ cửa hàng này, iPhone 5S được xách tay từ thị trường Hong Kong. Hiện tại nguồn hàng còn khá nhiều. Máy chủ yếu có màu vàng, trong khi bản màu trắng đã hết hàng.\n“Dù được ra mắt khá lâu nhưng iPhone 5S vẫn có thể đáp ứng tốt những nhu cầu cơ bản nhất như nghe, gọi, nhắn tin, lướt mạng xã hội. Model này có thiết kế vuông vức, nhỏ gọn và giá rẻ nên một số người dùng vẫn tìm mua”, ông Nguyễn Mạnh Hải, chủ cửa hàng trên đường Nguyễn Tiểu La (quận 10, TP.HCM) cho biết.\n\niPhone 5S sử dụng con chip Apple A7 tốc độ 1,3 GHz, chip 64-bit đầu tiên của Apple. Hãng vẫn hỗ trợ iPhone 5S cập nhật lên iOS 12.\n\niPhone 5S sở hữu màn hình 4 inch có thể khiến người dùng không hài lòng khi lướt web, xem video hoặc giải trí vì quá nhỏ. Tuy nhiên, chiếc di động này mang đến khả năng sử dụng bằng một tay dễ dàng hơn.",
+      "id": 9
+    },
+    {
+      "category_id": "7",
+      "name": "Philippines đóng dấu bản đồ Biển Đông vào hộ chiếu TQ in đường 9 đoạn",
+      "image": "/images/ChinesenationalsinNAIA_CNNPH.jpg",
+      "summary": "Visa được đóng dấu lên hộ chiếu Trung Quốc sẽ có hình vẽ bản đồ Philippines và vùng đặc quyền kinh tế (EEZ) của nước này trên biển.",
+      "content": "Suốt 7 năm nay, Philippines cấm đóng dấu visa lên hộ chiếu Trung Quốc để phản đối đường lưỡi bò in trên đó. Manila vừa gỡ bỏ lệnh cấm này, thay vào đó là một cách phản ứng khác.\n\nCục Di trú Philippines sẽ tiếp tục trở lại việc đóng dấu visa nước này vào hộ chiếu Trung Quốc có in \"đường chín đoạn\". Ông Jaime Morente, quan chức của cục, ngày 5/11 cho biết việc này tuân theo thông tư của Bộ Ngoại giao Philippines hủy bỏ lệnh cấm đóng dấu lên hộ chiếu Trung Quốc năm 2012.\n\nBắc Kinh năm 2012 phát hành hộ chiếu mới có in hình \"đường 9 đoạn\" phi pháp, thể hiện yêu sách chủ quyền phi lý với gần như toàn bộ diện tích Biển Đông. Chính quyền tổng thống Philippines khi đó, ông Benigno Aquino III, ban hành chính sách không đóng dấu xuất nhập cảnh lên hộ chiếu có in hình \"đường 9 đoạn\" này. Thay vào đó, họ chỉ đóng lên tờ thị thực rời kẹp trong hộ chiếu. \n\nLệnh này nhằm phản đối \"yêu sách chủ quyền quá mức của Trung Quốc đối với gần như toàn bộ Biển Đông, bao gồm cả biển Tây Philippines\". Biển Tây Philippines là cách Philippines gọi phần biển phía đông Biển Đông.\nÔng Morente cho biết các nhân viên lãnh sự Philippines sẽ dán visa nước này lên hộ chiếu Trung Quốc, hiện có in bản đồ và đường chín đoạn mà Bắc Kinh đơn phương tuyên bố trên Biển Đông.\n\nTheo đó, visa được đóng dấu lên hộ chiếu Trung Quốc sẽ có hình vẽ bản đồ Philippines và vùng đặc quyền kinh tế (EEZ) của nước này trên biển.\n\nPhán quyết ngày 12/7/2016 của Tòa Trọng tài Quốc tế PCA đã bác bỏ cái mà Trung Quốc gọi là \"đường chín đoạn\" hay \"đường lưỡi bò\" mà nước này đơn phương vẽ ra trên Biển Đông để tuyên bố chủ quyền.",
+      "id": 10
+    },
+    {
+      "category_id": "2",
+      "name": "Cựu Phó giám đốc Sở GD&ĐT Hà Giang kêu oan",
+      "image": "/images/chinh.jpg",
+      "summary": "Bị tòa sơ thẩm tuyên phạt 2 năm tù, bà Triệu Thị Chính (Cựu Phó giám đốc Sở GD&ĐT Hà Giang) đã gửi đơn kháng cáo lên cấp phúc thẩm.",
+      "content": "Ngày 6/11, TAND Cấp cao tại Hà Nội đã tiếp nhận đơn kháng cáo của bà Triệu Thị Chính (cựu Phó giám đốc Sở GD&ĐT Hà Giang) - một trong 5 bị cáo trong vụ gian lận điểm thi THPT quốc gia năm 2018 ở địa phương này.\n\nTrong đơn gửi tòa phúc thẩm, bà Chính kêu oan và kháng cáo toàn bộ bản án của TAND tỉnh Hà Giang tuyên bà 2 năm tù về tội Lợi dụng chức vụ quyền hạn gây ảnh hưởng đối với người khác để trục lợi.\n\n\"Tôi không có tội, tôi đề nghị cấp phúc thẩm giải quyết theo trình tự\", bà Chính trình bày.\nPhiên tòa xét xử bê bối điểm thi ở Hà Giang diễn ra từ 14-18/10. Suốt thời gian đó, bà Chính liên tục khẳng định bản thân vô tội.\n\nTheo bản án sơ thẩm, bị cáo này đã đưa danh sách 13 thí sinh gồm con, cháu nhiều lãnh đạo tỉnh Hà Giang cho Nguyễn Thanh Hoài (cựu Trưởng phòng Khảo thí). Giai đoạn điều tra và tại tòa, bà Chính khai chỉ nhờ xem điểm, không nhờ nâng điểm.\n\nKhi tuyên án, HĐXX xét thấy tại biên bản làm việc với Bộ GD&ĐT ngày 16/7/2018, bị cáo đã thừa nhận việc nhờ Hoài nâng điểm Ngữ văn cho từng thí sinh.\n\nNgoài ra, nhiều phụ huynh thí sinh có mặt tại tòa cũng thừa nhận họ đã nhờ bà Chính nâng điểm cho con. Căn cứ vào đó, HĐXX xác định bị cáo Chính đã phạm tội.\n\nLiên quan vụ án, HĐXX tuyên phạt Nguyễn Thanh Hoài 8 năm tù và Vũ Trọng Lương 7 năm tù về tội Lợi dụng chức vụ, quyền hạn trong thi hành công vụ.\n\nBị cáo Lê Thị Dung lĩnh 2 năm tù về tội Lợi dụng ảnh hưởng với người có chức vụ, quyền hạn để trục lợi. Cùng phạm tội này, bị cáo Phạm Văn Khuông nhận mức án 1 năm tù treo.",
+      "id": 11
+    },
+    {
+      "category_id": "3",
+      "name": "Bão số 6 mạnh nhất từ đầu năm",
+      "image": "/images/bao_Nakri_HKedit.jpg",
+      "summary": "Cơ quan khí tượng cho biết ngày 7/11 bão số 6 - Nakri sẽ bẻ hướng về phía đất liền, tăng cấp. Bão có thể đi vào vùng biển Quảng Ngãi - Ninh Thuận ngày 10/11.",
+      "content": "Ông Mai Văn Khiêm, Giám đốc Trung tâm dự báo Khí tượng Thủy văn Quốc gia, cho biết bão số 6 liên tục tăng cấp là do đang di chuyển trên một vùng biển ấm. Các điều kiện động lực ngay tại khu vực bão hoạt động cũng thuận lợi để bão tích tụ năng lượng và mạnh lên. \n\nNgoài ra, không khí lạnh sẽ bắt đầu ảnh hưởng tới các tỉnh vùng núi phía Bắc trong ngày mai (7/11). Sự kết hợp của áp cao lạnh lục địa dồn xuống phía nam và không khí lạnh phía bắc đã tạo ra gió đông bắc rất mạnh ở rìa phía bắc của cơn bão, khiến bão số 6 tăng cấp nhanh. \n\n\"Cường độ cực đại của bão Nakri có thể đạt đến cấp 11-12 khi khối áp cao lạnh lục địa mang theo không khí lạnh vào ngày 9-10/11. Lúc này, tâm bão nằm ngay ở vị trí phía bắc quần đảo Trường Sa\", ông Khiêm thông tin. \n\nNếu đạt cấp 11 hoặc 12, đây sẽ là cơn bão mạnh nhất kể từ đầu mùa bão 2019 đến nay trên Biển Đông.\nGiám đốc Trung tâm dự báo Khí tượng Thủy văn Quốc gia cũng cho biết khi vào gần bờ, gặp vùng biển lạnh hơn, không khí lạnh đã đi xuống khu vực Trung Bộ từ trước đó nên bão số 6 sẽ suy yếu đi 2-3 cấp. Khi tiến sát vào vùng biển ngoài khơi các tỉnh Trung và Nam Trung Bộ, bão thậm chí có thể suy yếu hơn. \n\nTheo nhận định của cơ quan khí tượng, tâm bão có khả năng nằm ngay trên vùng biển các tỉnh Quảng Ngãi - Ninh Thuận trong ngày 10/11. \nNhững giờ tiếp theo, bão số 6 tiếp tục đi theo hướng tây, tăng tốc lên 10 km/h, ngày càng tiến gần với đất liền khu vực Nam Trung Bộ. Lúc này, cường độ gió có xu hướng giảm xuống cấp 11, giật cấp 13.\n\nNgày 10/11, bão đổi sang hướng tây tây bắc, tiến vào vùng biển các tỉnh Quảng Ngãi - Ninh Thuận với vận tốc 10-15 km/h. Sau đó, bão đi vào đất liền và suy yếu dần thành một vùng áp thấp trên khu vực phía bắc Campuchia.\n\nDo ảnh hưởng của bão, các tỉnh ven biển từ Thừa Thiên - Huế đến Phú Yên và phần phía đông của các tỉnh Gia Lai, Kon Tum sẽ có mưa lớn tập trung trong các ngày 9-11/11.\n\nLượng mưa tại các khu vực có thể đạt trên mức 100 mm/ngày. Sau khoảng thời gian này, mưa vẫn duy trì ở Trung Bộ nhưng với cường độ giảm rõ rệt. ",
+      "id": 12
+    }
+  ]
+}
